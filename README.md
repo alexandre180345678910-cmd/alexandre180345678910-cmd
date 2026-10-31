@@ -1,4 +1,9 @@
-<h1 align="center">Alexandre Correia</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=40&duration=2200&pause=1000&center=true&vCenter=true&repeat=false&width=520&height=70&lines=Alexandre+Correia&color=E6EDF3" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=40&duration=2200&pause=1000&center=true&vCenter=true&repeat=false&width=520&height=70&lines=Alexandre+Correia&color=1F2937" alt="Alexandre Correia" />
+  </picture>
+</p>
 
 <p align="center"><strong>Desenvolvedor Full-Stack</strong> &nbsp;|&nbsp; TypeScript · Next.js · PostgreSQL · Cloud</p>
 
